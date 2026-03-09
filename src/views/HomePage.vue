@@ -40,7 +40,7 @@ const spin = () => {
               </button>
             </div>
           </div>
-          <AnimeCard loading />
+          <AnimeCard error="Network Error" />
         </section>
       </div>
     </div>
